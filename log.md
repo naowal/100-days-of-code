@@ -17,3 +17,14 @@
 
 **Link(s) to work**
 1. [Ecommerce Site](https://github.com/naowal/uncle-engineer-ecommerce)
+
+Day 2: May 24, Friday
+
+Today's Progress: Teacher can drag-and-drop for reordering contents and module. Index page worked with show all course and can see course overviews.
+
+Thoughts I learned about howto use CsrfExemptMixin and JsonRequestResponseMixin deal with reorder contents and module.integrated by JQuery. And use CourseListView from courses.views with index page. Represent All Courses now.
+
+Link(s) to work
+
+    Ecommerce Site
+
