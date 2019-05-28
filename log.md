@@ -27,4 +27,15 @@ Thoughts I learned about howto use CsrfExemptMixin and JsonRequestResponseMixin 
 Link(s) to work
 
     Ecommerce Site
+    
+ Day 3: May 27, Monday
+
+Today's Progress: Add student feature ie. student registration, enroll courses, student access the course contents
+
+Thoughts I learned about adding student registration,enrolling in course, how to setting models many-to-many relationships students models - course models associate. If any Views have LoginRequiredMixin in () that means only logged in users can access the view, Using LOGIN_REDIRECT_URL = reverse_lazy("") in settings.py to redirect the user to after a successful login. Rendering different types of content (Text,Image,Video and File) has differently management.
+
+Link(s) to work
+
+    Ecommerce Site
+
 
